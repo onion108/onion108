@@ -4,6 +4,8 @@ Howdy! I'm 27Onion "Wolfys" Nebell.
 
 Here is my personal website: [Click Me To Teleport](https://onion108.github.io/)
 
+Now switching to [CodeBerg](https://codeberg.org/onion27)
+
 ## Analyze
 ![VSCode sucks now. I use NEOVIM instead.](https://img.shields.io/badge/Editor-Neovim-pink?style=for-the-badge)
 ![Follows](https://img.shields.io/github/followers/onion108?style=for-the-badge)
